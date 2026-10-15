@@ -1,4 +1,4 @@
-# Sentinel CLI
+# Sentinel
 
 Sentinel is a local, defensive research prototype for Foundry projects. It combines static and symbolic candidates with an isolated exploit, repair, and verification loop. It never deploys contracts, uses wallets, or sends transactions to a public network.
 
